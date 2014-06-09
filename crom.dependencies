@@ -1,0 +1,26 @@
+[
+    {
+        "remote": "crm",
+        "repository": "android_device_samsung_galaxys2-common",
+        "target_path": "device/samsung/galaxys2-common",
+        "branch": "kitkat"
+    },
+    {
+        "remote": "omni",
+        "repository": "android_kernel_samsung_smdk4412",
+        "target_path": "kernel/samsung/smdk4412",
+        "branch": "android-4.4"
+    },
+    {
+        "remote": "cm",
+        "repository": "android_hardware_samsung",
+        "target_path": "hardware/samsung",
+        "branch": "cm-11.0"
+    },
+    {
+        "remote": "cm",
+        "repository": "android_packages_apps_SamsungServiceMode",
+        "target_path": "packages/apps/SamsungServiceMode",
+        "branch": "cm-11.0"
+    }
+]
