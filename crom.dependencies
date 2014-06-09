@@ -1,5 +1,5 @@
 [
-	{
+  {
                 "remote": "crm",
                 "repository": "android_device_samsung_galaxys2-common",
                 "target_path": "device/samsung/galaxys2-common",
@@ -22,5 +22,5 @@
                 "repository": "proprietary_vendor_samsung",
                 "target_path": "vendor/samsung",
                 "branch": "kk4.4"
-	}
+  }
 ]
