@@ -1,26 +1,26 @@
 [
-    {
-        "remote": "crm",
-        "repository": "android_device_samsung_galaxys2-common",
-        "target_path": "device/samsung/galaxys2-common",
-        "branch": "kitkat"
-    },
-    {
-        "remote": "crm",
-        "repository": "android_kernel_samsung_smdk4412",
-        "target_path": "kernel/samsung/smdk4412",
-        "branch": "kitkat"
-    },
-    {
-        "remote": "slim",
-        "repository": "hardware_samsung",
-        "target_path": "hardware/samsung",
-        "branch": "kk4.4"
-    },
-    {
-        "remote": "slim",
-        "repository": "proprietary_vendor_samsung",
-        "target_path": "vendor/samsung",
-        "branch": "kk4.4"
-    }
+	{
+                "remote": "crm",
+                "repository": "android_device_samsung_galaxys2-common",
+                "target_path": "device/samsung/galaxys2-common",
+                "branch": "kitkat"
+	},
+	{
+                "remote": "crm",
+                "repository": "android_kernel_samsung_smdk4412",
+                "target_path": "kernel/samsung/smdk4412",
+                "branch": "kitkat"
+	},
+	{
+                "remote": "slim",
+                "repository": "hardware_samsung",
+                "target_path": "hardware/samsung",
+                "branch": "kk4.4"
+	},
+	{
+                "remote": "slim",
+                "repository": "proprietary_vendor_samsung",
+                "target_path": "vendor/samsung",
+                "branch": "kk4.4"
+	}
 ]
