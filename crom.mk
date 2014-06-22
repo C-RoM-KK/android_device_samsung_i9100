@@ -14,9 +14,6 @@
 # limitations under the License.
 #
 
-# Specify phone tech before including full_phone
-$(call inherit-product, vendor/crom/config/gsm.mk)
-
 # Release name
 PRODUCT_RELEASE_NAME := i9100
 
